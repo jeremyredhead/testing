@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          just testing
 // @description   this is a test to make sure that stuff works y'know?
-// @version       0.0.1
+// @version       0.0.2
 // @match         *://example.com/*
 // ==/UserScript==
 
